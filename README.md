@@ -100,3 +100,20 @@ Selected dashboard results were checked against the SQL analysis, including:
 
 ### Clinic & Region Performance
 ![Clinic and region performance](03_clinic_region_performance.png)
+
+## Project files
+
+- [Power BI report](CareGap_Intelligence.pbix)
+- [01 — Data preparation](sql/01_data_preparation.sql)
+- [02 — Screening gap analysis](sql/02_screening_gap_analysis.sql)
+- [03 — Clinic gap summary](sql/03_clinic_gap_summary.sql)
+- [04 — Validation checks](sql/04_validation.sql)
+
+## SQL execution order
+
+The scripts assume the synthetic source tables are already
+loaded into CAREGAP_DB.RAW with their final column names
+and data types.
+
+Run scripts 01, 02, and 03 in order to build the analysis
+tables. Then run script 04 to check the results.
