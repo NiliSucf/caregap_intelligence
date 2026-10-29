@@ -90,3 +90,13 @@ Selected dashboard results were checked against the SQL analysis, including:
 - Missing screening documentation may reflect incomplete records.
 - Overall clinic rates combine different screening types and eligible populations. Use the screening type filter for more focused comparisons.
 - The report is a snapshot as of October 1, 2026.
+- ## Dashboard screenshots
+
+### Overview
+![CareGap overview](01_caregap_overview.png)
+
+### Patient-Level Gaps
+![Patient-level screening gaps](02_patient_level_gaps.png)
+
+### Clinic & Region Performance
+![Clinic and region performance](03_clinic_region_performance.png)
