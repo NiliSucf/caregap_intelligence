@@ -20,7 +20,7 @@ The following simplified rules were used for this training project. They are not
 
 | Screening | Eligibility | Screening interval |
 |---|---|---|
-| Blood pressure | Ages 18–120 | 12 months |
+| Blood pressure | Ages 18 and older | 12 months |
 | Breast | Female patients, ages 40–74 | 24 months |
 | Colorectal | Ages 45–75 | 12 months |
 
